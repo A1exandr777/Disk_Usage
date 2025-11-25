@@ -113,6 +113,7 @@ def traversal(file_path, depth=-1):
             )
             sys.stdout.flush()
 
+
     print("\nScanning complete!")
     return result, max_len
 
