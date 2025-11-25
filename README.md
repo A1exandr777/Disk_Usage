@@ -1,5 +1,3 @@
----
-
 # Disk Usage Treemap GUI
 
 **Disk Usage — Treemap GUI** — визуальный анализатор дискового пространства.
