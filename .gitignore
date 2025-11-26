@@ -1,0 +1,7 @@
+.DS_Store
+node_module
+.idea
+__pycache__/
+*.py[cod]
+venv/
+.env
