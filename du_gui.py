@@ -1,8 +1,4 @@
 #!/usr/bin/env python3
-"""
-du_gui.py — визуальный анализатор дискового пространства с treemap
-Установка: pip install matplotlib squarify
-"""
 
 import fnmatch
 import math
